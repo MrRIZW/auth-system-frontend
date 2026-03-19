@@ -73,7 +73,7 @@ onClick={()=>setIsLogin(!isLogin)}
 
 <button
 className="google"
-onClick={()=>window.location.href="http://localhost:5000/api/auth/google"}
+onClick={()=>window.location.href="https://auth-system-backend-xp8h.onrender.com/api/auth/google"}
 >
 Login with Google
 </button>
